@@ -20,3 +20,4 @@ model.compile(optimizer='rmsprop',
 # model.fit(data, labels)  # starts training
 
 plot_model(model, to_file='model.png')
+print("done")

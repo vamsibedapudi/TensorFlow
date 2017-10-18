@@ -5,3 +5,9 @@
 .idea/tempOne.iml
 .idea/workspace.xml
 test.py
+!/.gitignore
+logs/
+model.png
+!/model.png
+!/test.py
+/test.py
